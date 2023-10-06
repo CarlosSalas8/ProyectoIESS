@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "iess-c726c": {
+      "hosting": {
+        "IESS": [
+          "iess-c726c"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "iess-c726c"
+  }
+}
